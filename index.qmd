@@ -67,4 +67,6 @@ We invite proposals for workshops to be held on the first day of RSA26 (Tuesday,
 Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSA26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
 
 
-*The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+<p style="font-size: small;color: grey">
+*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+</p>
